@@ -4,12 +4,25 @@ body {
     font-family: 'Varela Round', sans-serif;
 }
 
+.box {
+    border-style: dashed;
+    width: 65%;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 20%;
+    background: white;
+}
 
+.upload {
+    width: 30%;
+    height: 30px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
 
 .box .btn:hover, .box .btn:focus {
     background: #42ae68;
 }
-
 
 .box .btn-primary {
     alignment: center;
@@ -26,24 +39,14 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.box p {
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #4aba70;
+    text-align: center;
+}
+
 #text {
-    border-radius: 30px;
+    border-radius: 10px;
     margin-left: 35%;
-}
-
-.box {
-    border-style: dashed;
-    width: 60%;
-    height: 200px;
-    border-radius: 20px;
-    margin-left: 20%;
-    background: white;
-}
-
-.upload {
-    display: none;
-    width: 30%;
-    height: 30px;
-    margin-left: 35%;
-    margin-top: 5%;
 }
