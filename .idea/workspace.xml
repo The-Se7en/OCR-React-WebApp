@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6bf87a0-a41a-434e-87a6-467c5e51e836" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+    <list default="true" id="e6bf87a0-a41a-434e-87a6-467c5e51e836" name="Default Changelist" comment="added Signup functionality">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <updated>1578756092549</updated>
       <workItem from="1578756094418" duration="2251000" />
       <workItem from="1578835380438" duration="1466000" />
-      <workItem from="1578837344956" duration="3537000" />
+      <workItem from="1578837344956" duration="3874000" />
     </task>
     <task id="LOCAL-00001" summary="Browser Router Added">
       <created>1578835784273</created>
@@ -134,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578840171674</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added Login functionality">
+      <created>1578840939646</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578840939646</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added Signup functionality">
+      <created>1578840990543</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578840990543</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,17 +162,19 @@
     <MESSAGE value="Login using redux" />
     <MESSAGE value="Navbar updated with signup and login" />
     <MESSAGE value="added Image upload functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Image upload functionality" />
+    <MESSAGE value="added Login functionality" />
+    <MESSAGE value="added Signup functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Signup functionality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578757472857">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="147" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1578757472857" />
-    <state x="11" y="34" width="1060" height="951" key="CommitChangelistDialog2" timestamp="1578840939256">
+    <state x="11" y="34" width="1060" height="951" key="CommitChangelistDialog2" timestamp="1578841070458">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="11" y="34" width="1060" height="951" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1578840939256" />
+    <state x="11" y="34" width="1060" height="951" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1578841070458" />
     <state width="1864" height="250" key="GridCell.Tab.0.bottom" timestamp="1578837329209">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
@@ -183,10 +199,10 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="594" y="208" width="721" height="704" key="MultipleFileMergeDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1578839437302" />
-    <state x="0" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1578840902679">
+    <state x="437" y="280" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1578841074101">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="0" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1578840902679" />
+    <state x="437" y="280" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1578841074101" />
     <state x="540" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578837345591">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>

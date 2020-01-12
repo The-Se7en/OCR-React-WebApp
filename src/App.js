@@ -7,22 +7,23 @@ import Login from "./Components/Login";
 import Signup from "./Components/Signup";
 import Home from "./Components/Home";
 
-function App() {
+class App extends Component {
 
-  return (
-      <BrowserRouter>
-          <div className="App">
-              <Header />
-              <Switch>
-                  <Route exact path='/'component={Welcome} />
-                  <Route path='/login' component={Login} />
-                  <Route path='/signup' component={Signup} />
-                  <Route path='/home' component={Home} />
-              </Switch>
-          </div>
-      </BrowserRouter>
-  );
-
+    render() {
+        return (
+            <BrowserRouter>
+                <div className="App">
+                    <Header />
+                    <Switch>
+                        <Route exact path='/'component={Welcome} />
+                        <Route path='/login' component={Login} />
+                        <Route path='/signup' component={Signup} />
+                        <Route path='/home' component={Home} />
+                    </Switch>
+                </div>
+            </BrowserRouter>
+        );
+    }
 }
 
 export default App;
