@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bf87a0-a41a-434e-87a6-467c5e51e836" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <updated>1578756092549</updated>
       <workItem from="1578756094418" duration="2251000" />
       <workItem from="1578835380438" duration="1466000" />
-      <workItem from="1578837344956" duration="1437000" />
+      <workItem from="1578837344956" duration="2454000" />
     </task>
     <task id="LOCAL-00001" summary="Browser Router Added">
       <created>1578835784273</created>
@@ -106,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578838733879</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Signup using redux">
+      <created>1578838811760</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578838811760</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Login using redux">
+      <created>1578838980117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578838980117</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,17 +130,19 @@
     <MESSAGE value="Browser Router Added" />
     <MESSAGE value="Navbar update" />
     <MESSAGE value="Image Upload using redux" />
-    <option name="LAST_COMMIT_MESSAGE" value="Image Upload using redux" />
+    <MESSAGE value="Signup using redux" />
+    <MESSAGE value="Login using redux" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login using redux" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578757472857">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="147" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1578757472857" />
-    <state x="0" y="85" width="1060" height="951" key="CommitChangelistDialog2" timestamp="1578838811341">
+    <state x="0" y="85" width="1060" height="951" key="CommitChangelistDialog2" timestamp="1578838980038">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="0" y="85" width="1060" height="951" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1578838811341" />
+    <state x="0" y="85" width="1060" height="951" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1578838980038" />
     <state width="1864" height="250" key="GridCell.Tab.0.bottom" timestamp="1578837329209">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
@@ -143,10 +159,18 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state width="1864" height="250" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1578837329209" />
-    <state x="0" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1578836517829">
+    <state x="182" y="127" width="1536" height="873" key="MergeDialog" timestamp="1578839426407">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="0" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1578836517829" />
+    <state x="182" y="127" width="1536" height="873" key="MergeDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1578839426407" />
+    <state x="594" y="208" width="721" height="704" key="MultipleFileMergeDialog" timestamp="1578839437302">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="594" y="208" width="721" height="704" key="MultipleFileMergeDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1578839437302" />
+    <state x="0" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1578839359978">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="0" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1578839359978" />
     <state x="540" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578837345591">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
