@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+We are having some issues with tesseract library.sending image and recieving ocr text is doesn't working.
+
 ## Available Scripts
 
 In the project directory, you can run:
