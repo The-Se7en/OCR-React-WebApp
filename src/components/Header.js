@@ -1,13 +1,24 @@
 import React from "react";
+import '../StyleSheets/Header.css';
+import logo from "../Images/logo.png";
 
-class Header extends React.Component{
+class Header extends React.Component {
 
     render() {
-        return(
-          <div>
-              <p>This is Header</p>
-          </div>
+
+        return (
+            <div>
+
+                <div className="navbar">
+                    <img src={logo} alt="logo"/>
+                    <h2>Optical Character recognition</h2>
+                </div>
+
+                <br/>
+
+            </div>
         );
+
     }
 
 }
