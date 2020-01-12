@@ -9,19 +9,11 @@ class Header extends React.Component {
         return (
             <div>
 
-                <nav className="navbar navbar-default">
-                    <div className="container-fluid">
-                        <div className="navbar-header">
-                            <a className="navbar-brand" href="/">
-                                <img src={logo} alt="logo"/>
-                            </a>
-                            <h2 className="navbar-brand">OMG OCR</h2>
+                <div className="navbar">
+                    <img src={logo} alt="logo"/>
+                    <h2>Optical Character recognition</h2>
+                </div>
 
-                        </div>
-                        <a className="nav-link" href="/signup">Signup</a>
-                        <a className="nav-link" href="/login">Login</a>
-                    </div>
-                </nav>
                 <br/>
 
             </div>
