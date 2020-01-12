@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bf87a0-a41a-434e-87a6-467c5e51e836" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Signup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Welcome.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +83,7 @@
       <updated>1578756092549</updated>
       <workItem from="1578756094418" duration="2251000" />
       <workItem from="1578835380438" duration="1466000" />
-      <workItem from="1578837344956" duration="1138000" />
+      <workItem from="1578837344956" duration="1437000" />
     </task>
     <task id="LOCAL-00001" summary="Browser Router Added">
       <created>1578835784273</created>
@@ -99,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578835784273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Navbar update">
+      <created>1578838547599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578838547599</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Image Upload using redux">
+      <created>1578838733879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578838733879</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,17 +114,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Browser Router Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Browser Router Added" />
+    <MESSAGE value="Navbar update" />
+    <MESSAGE value="Image Upload using redux" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image Upload using redux" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578757472857">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="147" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1578757472857" />
-    <state x="0" y="85" width="1060" height="951" key="CommitChangelistDialog2" timestamp="1578838547423">
+    <state x="0" y="85" width="1060" height="951" key="CommitChangelistDialog2" timestamp="1578838733397">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="0" y="85" width="1060" height="951" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1578838547423" />
+    <state x="0" y="85" width="1060" height="951" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1578838733397" />
     <state width="1864" height="250" key="GridCell.Tab.0.bottom" timestamp="1578837329209">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
