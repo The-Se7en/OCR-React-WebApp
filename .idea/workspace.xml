@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6bf87a0-a41a-434e-87a6-467c5e51e836" name="Default Changelist" comment="added Signup functionality">
+    <list default="true" id="e6bf87a0-a41a-434e-87a6-467c5e51e836" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ocr" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -84,6 +92,8 @@
       <workItem from="1578756094418" duration="2251000" />
       <workItem from="1578835380438" duration="1466000" />
       <workItem from="1578837344956" duration="3874000" />
+      <workItem from="1578841262424" duration="745000" />
+      <workItem from="1578842369272" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="Browser Router Added">
       <created>1578835784273</created>
@@ -148,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578840990543</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="small errors removed">
+      <created>1578841289332</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578841289332</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,17 +181,22 @@
     <MESSAGE value="added Image upload functionality" />
     <MESSAGE value="added Login functionality" />
     <MESSAGE value="added Signup functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Signup functionality" />
+    <MESSAGE value="small errors removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="small errors removed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578757472857">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="147" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1578757472857" />
-    <state x="11" y="34" width="1060" height="951" key="CommitChangelistDialog2" timestamp="1578841070458">
+    <state x="11" y="34" width="1060" height="951" key="CommitChangelistDialog2" timestamp="1578841288945">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="11" y="34" width="1060" height="951" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1578841070458" />
+    <state x="11" y="34" width="1060" height="951" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1578841288945" />
+    <state x="690" y="258" width="530" height="605" key="FileChooserDialogImpl" timestamp="1578841912870">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="690" y="258" width="530" height="605" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1578841912870" />
     <state width="1864" height="250" key="GridCell.Tab.0.bottom" timestamp="1578837329209">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
@@ -199,10 +221,10 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="594" y="208" width="721" height="704" key="MultipleFileMergeDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1578839437302" />
-    <state x="437" y="280" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1578841074101">
+    <state x="437" y="280" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1578841298570">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="437" y="280" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1578841074101" />
+    <state x="437" y="280" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1578841298570" />
     <state x="540" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578837345591">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>

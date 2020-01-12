@@ -58,7 +58,7 @@ const Home = () => {
                         onChange={onChange}
                     />
                     <br />
-                    <button className="btn-primary" type="submit">Upload Image</button>
+                    <button type="submit">Upload</button>
                     <h2>{text}</h2>
                 </form>
             </div>
