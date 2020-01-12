@@ -1,0 +1,47 @@
+body {
+    color: #999;
+    background: #4aba70;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.box {
+    border-style: dashed;
+    width: 60%;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 20%;
+    background: white;
+}
+
+.upload {
+    display: none;
+    width: 30%;
+    height: 30px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+.box .btn:hover, .box .btn:focus {
+    background: #42ae68;
+}
+
+
+.box .btn-primary {
+    alignment: center;
+    max-width: fit-content;
+    height: 40px;
+    margin-top: 10%;
+    margin-left: 40%;
+    background: #4aba70;
+    border-radius: 30px;
+    border: none;
+    font-size: 18px;
+    color: white;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+#text {
+    border-radius: 30px;
+    margin-left: 35%;
+}
