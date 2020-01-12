@@ -1,11 +1,11 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import { Switch, Route, withRouter } from "react-router-dom";
-import Header from "./Components/Header";
-import Welcome from "./Components/Welcome";
-import Login from "./Components/Login";
-import Signup from "./Components/Signup";
-import Home from "./Components/Home";
+import Header from "./components/Header";
+import Welcome from "./components/Welcome";
+import Login from "./components/Login";
+import Signup from "./components/Signup";
+import Home from "./components/Home";
 
 const App = location => {
     return (
